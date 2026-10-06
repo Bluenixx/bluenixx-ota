@@ -1,1 +1,1 @@
-# bluenixx-ota
+# Bluenixx Official devices
