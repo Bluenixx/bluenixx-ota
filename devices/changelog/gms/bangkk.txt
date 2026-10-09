@@ -1,1 +1,5 @@
 ### Motorola G84 bangkk
+- initial release
+- Maintainer: zedisspp
+- Date: 09/10/2026
+- Bluenixx 17.0
