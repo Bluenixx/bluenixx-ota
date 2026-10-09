@@ -1,0 +1,50 @@
+# Bluenixx V17.0
+- initial release
+- security patch 9 October
+- Android 17 QPR0
+
+### Launcher3:
+- Move the search bar from
+the app drawer to the bottom
+of the screen.
+- Style the search bar with a
+faint outline, making it stand out.
+- Add toggle for app icon size
+in the app drawer.
+- Increase the navbar size
+for better visibility
+- Reduce navbar opacity
+for an OEM look.
+
+### Settings:
+- Style all the home icons.
+- Add a banner to the "about" tab.
+- Add maintainer and device info to "about" tab.
+
+### Updater:
+- Add Bluenixx logo
+- Add OTA support
+for Bluenixx
+
+### Backgrounds:
+- Add new default
+wallpaper from bluenixx
+
+### Recovery:
+- Style the interface to monochrome
+and rebrand to bluenixx.
+
+### Bootanimation
+- Add bootanimation in
+Samsung static style
+
+### PackageInstaller:
+- Switch to Axion OS
+package installer
+
+### Vendor:
+- Add support for GApps.
+- Add maintainer flag
+- Add JSON generator script
+for OTA upon build completion.
+- Add OFFICIAL and UNOFFICIAL build types.
