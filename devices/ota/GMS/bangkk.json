@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1792160437,
+    "datetime": 1792170104,
     "files": [
       {
         "filename": "bluenixx-17.0-20261016-OFFICIAL-GAPPS-bangkk-v1.0-BIG-BANG.zip",
         "os_patch_level": "2026-09-01",
         "os_sdk_level": 37,
-        "ota_property_files": "payload_metadata.bin:4044:91378,payload.bin:4044:1974258570,payload_properties.txt:1974262672:155,apex_info.pb:1974:1448,care_map.pb:3469:528,metadata:69:677,metadata.pb:814:1112                        ",
-        "sha256": "340e9f183854e063667b94264269adc3f61f41990c62f004ed7b2cc730f35f35",
-        "size": 1974265962,
-        "url": "https://downloads.bluenixx.example/bangkk/bluenixx-17.0-20261016-OFFICIAL-GAPPS-bangkk-v1.0-BIG-BANG.zip"
+        "ota_property_files": "payload_metadata.bin:4044:91378,payload.bin:4044:1974258754,payload_properties.txt:1974262856:155,apex_info.pb:1974:1448,care_map.pb:3469:528,metadata:69:677,metadata.pb:814:1112                        ",
+        "sha256": "cf1f231856b79ec49c02354a15b43aff49901f1c835d7ef6c2691600e34d7978",
+        "size": 1974266146,
+        "url": "https://github.com/Bluenixx/bluenixx-ota/releases/download/bangkk/bluenixx-17.0-20261016-OFFICIAL-GAPPS-bangkk-v1.0-BIG-BANG.zip"
       }
     ],
     "type": "nightly",
